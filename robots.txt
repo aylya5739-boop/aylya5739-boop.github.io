@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aylya5739-boop.github.io/sitemap.xml
